@@ -1,0 +1,14 @@
+{
+  "name": "rspack-retro-windows",
+  "packageManager": "pnpm@8.14.3",
+  "scripts": {
+    "watch": "rspack build -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rspack/cli": "0.5.2-canary-d22f049-20240128005446",
+    "@rspack/core": "0.5.2-canary-d22f049-20240128005446"
+  }
+}
